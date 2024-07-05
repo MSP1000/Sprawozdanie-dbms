@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Sprawozdanie Bazy Danych'
-copyright = '2024, Tutaj twoje imie'
-author = 'Tutaj twoje imie'
+copyright = '2024, Michał Pawlica'
+author = 'student 272763'
 release = '1.0.0'
 
 # -- General configuration ---------------------------------------------------
